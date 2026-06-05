@@ -1,5 +1,7 @@
 # 将军考点
 
+<img src="./imgs/Octocat.gif" height="64">
+
 ---
 
 ## 物联网的定义
