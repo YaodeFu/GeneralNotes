@@ -1,4 +1,4 @@
-# 将军笔记
+# 将军笔记 by HSZ
 
 <img src="./imgs/Octocat.gif" height="64">**加粗**的文本是重点（将军说的，应该吧）
 
